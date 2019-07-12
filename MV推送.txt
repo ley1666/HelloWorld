@@ -1,0 +1,54 @@
+[
+	{
+		"beginTime": 35280,
+		"endTime": 35280,
+		"type": 1,
+		"url": "https://p1.music.126.net/Q1B8aV-63JHh4EtfTZBGuA==/109951163962105084.jpg",
+		"labels": [
+					{
+					"label": 300,
+					"level": 1,
+					"rate": 3.003009
+					}
+				]
+	},
+	{
+		"beginTime": 20160,
+		"endTime": 20160,
+		"type": 2,
+		"url": "https://illegal-video.nosdn.127.net/cd0a65d6c0634a5d99060b3e4fe4fb63.jpg",
+		"labels": [
+					{
+					"label": 400,
+					"level": 2,
+					"rate": 4.004009
+					}
+				]
+	},
+	{
+		"beginTime": 226800,
+		"endTime": 226800,
+		"type": 2,
+		"url": "https://illegal-video.nosdn.127.net/bfbc1c1baa7d443c966134af0a1193d2.jpg",
+		"labels": [
+					{
+					"label": 500,
+					"level": 2,
+					"rate": 5.005009
+					}
+				]
+	},
+	{
+		"beginTime": 90720,
+		"endTime": 90720,
+		"type": 2,
+		"url": "https://illegal-video.nosdn.127.net/68adfc96c29441a4abd655301fb3e043.jpg",
+		"labels": [
+					{
+					"label": 1030,
+					"level": 2,
+					"rate": 2.00210309
+					}
+				]
+	}
+]
